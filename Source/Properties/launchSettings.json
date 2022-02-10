@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "ReduxSample": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "/counter",
+      "applicationUrl": "https://localhost:7148;http://localhost:5148",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
